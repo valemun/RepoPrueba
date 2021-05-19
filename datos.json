@@ -6,5 +6,9 @@
     {
         "nombre": "maria",
         "apellido": "gonzalez"
+    },
+    {
+        "nombre": "fulanita",
+        "apellido": "montoya"
     }
 ]
